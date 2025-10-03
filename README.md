@@ -32,7 +32,7 @@ A fun computer vision game using OpenCV and MediaPipe where you can drag and dro
 Example:
 
 1. ![Shape Matching Screenshot](Matched_pic.png)
-2. ![Shape Matching Screenshot](Not_Matching_pic.png)
+2. ![Shape Matching Screenshot](Not_matching_pic.png)
 ---
 
 👨‍💻 Developed by Lipa Prusty
