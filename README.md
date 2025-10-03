@@ -14,7 +14,7 @@ A fun computer vision game using OpenCV and MediaPipe where you can drag and dro
 - Real-time hand tracking with MediaPipe.  
 - Pick and drag shapes using pinch gesture (thumb + index).  
 - Circle, Square, Triangle shapes with target zones.  
-- Instant feedback with colored messages (MATCH/NOT MATCH).  
+- Instant feedback with colored messages (MATCH/NOT MATCH). 
 - Smooth and interactive gesture-based gameplay.  
 
 ---
